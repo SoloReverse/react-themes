@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "scripts": {
     "prepublish": "pnpm build --filter=react-themes",
     "build": "turbo build",
