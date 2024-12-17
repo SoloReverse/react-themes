@@ -1,5 +1,5 @@
 {
-  "name": "react-themes",
+  "name": "@solorev/react-themes",
   "version": "0.4.5",
   "license": "MIT",
   "main": "./dist/index.js",
